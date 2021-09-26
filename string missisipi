@@ -1,0 +1,14 @@
+String = "I Love My India"
+Print(string.isalpha())
+
+Strong = "ILoveMyIndia"
+Print(string.isaIpha())
+
+String1= "abc123"
+Print(string1.isaIpha())
+
+String2= " "
+Print(string2.isaIpha())
+
+String3= "12345"
+Print(string3.isaIpha())
